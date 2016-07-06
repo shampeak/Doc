@@ -54,3 +54,6 @@ wwwroot\PhpMyAdmin
 Store
 vendor
 src/_/
+wwwroot/_/
+wwwroot/__/
+
